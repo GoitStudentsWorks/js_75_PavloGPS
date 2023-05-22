@@ -2,10 +2,10 @@
   "name": "project-bookshelf_11",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://PavloGPS.github.io/project-bookshelf_11",
+  "homepage": "https://GoitStudentsWorks.github.io/js_75_PavloGPS",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project-bookshelf_11/"
+    "build": "parcel build src/*.html --public-url /js_75_PavloGPS/"
   },
   "repository": {
     "type": "git",
